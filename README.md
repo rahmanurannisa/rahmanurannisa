@@ -14,7 +14,7 @@
 
 <br/>
 
-<div align="left">
+<div align="center">
   
   🎨 Designing user-centric experiences that delight users
 
@@ -40,7 +40,7 @@
 <br/>
 <br/>
 
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma,py,mysql,html,css,js,tensorflow" />
@@ -50,7 +50,7 @@
 <br/>
 <br/>
 
-<div align="left">
+<div align="center">
   <h2>🐛 My Contributions 🐛</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rahmanurannisa/rahmanurannisa/output/github-contribution-grid-snake.svg" />

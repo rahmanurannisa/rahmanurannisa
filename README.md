@@ -9,20 +9,19 @@
 <br/>
 
 <div align="center">
- 
- ✨ From crafting intuitive interfaces to diving deep into data-driven insights, I always explore new frontiers
- 
- 💗
+  ✨ from crafting intuitive interfaces to diving deep into data-driven insights, I always explore new frontiers ✨
+</div>
 
- 🎨 Designing user-centric experiences that delight users
- 
- 🌱 Learning the intricacies of game development, from level design to character creation
+<br/>
 
- 🗺️ Exploring the potential of data science to solve real-world problems
+<div align="left">
+  🎨 Designing user-centric experiences that delight users
+  🌱 Learning the intricacies of game development, from level design to character creation
+  🗺️ Exploring the potential of data science to solve real-world problems
+  🧠 Curious about AI algorithms that can generate song covers & lifelike animations
+</div>
 
- 🧠 Curious about AI algorithms that can generate song covers & lifelike animations
-
- </div>
+<br/>
 
 <div align="center">
   <a href="mailto:rahmanurannisa.work@gmail.com">
@@ -32,6 +31,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
+<br/>
+<br/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>

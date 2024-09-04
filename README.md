@@ -9,8 +9,7 @@
 <br/>
 
 <div align="center">
-  from crafting intuitive interfaces to diving deep into data-driven insights,
-  I always explore new frontiers
+  ✨ From crafting intuitive interfaces to diving deep into data-driven insights, I always explore new frontiers ✨
  
   🎨 Designing user-centric experiences that delight users
 

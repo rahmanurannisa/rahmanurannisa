@@ -15,7 +15,6 @@
 <br/>
 
 <div align="left">
-  
   🎨
   
   Designing user-centric experiences that delight users

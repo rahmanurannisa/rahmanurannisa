@@ -10,20 +10,16 @@
 
 <div align="center">
   ✨ from crafting intuitive interfaces to diving deep into data-driven insights, I always explore new frontiers ✨
-
-
+  <br/>
   🎨 
   Designing user-centric experiences that delight users
-
-
+  <br/>
   🌱
   Learning the intricacies of game development, from level design to character creation
-
-
+  <br/>
   🗺️
   Exploring the potential of data science to solve real-world problems
-
-
+  <br/>
   🧠
   Curious about AI algorithms that can generate song covers & lifelike animations
 </div>

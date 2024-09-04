@@ -4,14 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Pixelify+Sans&size=35&center=true&vCenter=true&pause=1000&color=1BCA1B&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rahma+Nur+Annisa!;" />
 </h1>
 
-<h3 align="center">An Informatic Engineering grad with a passion for turning digital ideas into reality</h3>
+<h3 align="center">An Informatic Engineering grad with a passion for turning digital ideas into reality. From crafting intuitive interfaces to diving deep into data-driven insights, I always explore new frontiers</h3>
 
 <br/>
-
-<div align="center">
-  ✨ From crafting intuitive interfaces to diving deep into data-driven insights, I always explore new frontiers ✨
-</div>
-
 <br/>
 <br/>
 
@@ -31,6 +26,7 @@
 <br/>
 
 <div align="center">
+  
   Get in Touch
   <a href="mailto:rahmanurannisa.work@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />

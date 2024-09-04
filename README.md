@@ -41,7 +41,7 @@ I'm currently:
 <br/>
 <br/>
 
-<h2 align="left">⚒️ Languages-Frameworks-Tools</h2>
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=figma,py,mysql,html,css,js,tensorflow" />
   <img src="https://skillicons.dev/icons?i=gcp,ps,ai,xd,vscode" />
@@ -51,7 +51,7 @@ I'm currently:
 <br/>
 
 <div align="lrft">
-  <h2>🐛 My Contributions</h2>
+  <h2>🐛 My Contributions 🐛</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rahmanurannisa/rahmanurannisa/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>

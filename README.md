@@ -15,13 +15,12 @@
 <br/>
 
 <div align="left">
-  🎨 Designing user-centric experiences that delight users
   
-  🌱 Learning the intricacies of game development, from level design to character creation
+  - 🎨 Designing user-centric experiences that delight users
+  - 🌱 Learning the intricacies of game development, from level design to character creation
+  - 🗺️ Exploring the potential of data science to solve real-world problems
+  - 🧠 Curious about AI algorithms that can generate song covers & lifelike animations
   
-  🗺️ Exploring the potential of data science to solve real-world problems
-  
-  🧠 Curious about AI algorithms that can generate song covers & lifelike animations
 </div>
 
 <br/>

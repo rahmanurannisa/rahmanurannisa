@@ -8,9 +8,10 @@
 
 <br/>
 <br/>
-<br/>
 
 <div align="left">
+  
+I'm currently:
   
   🎨 Designing user-centric experiences that delight users
 

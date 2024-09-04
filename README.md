@@ -13,8 +13,9 @@
 </div>
 
 <br/>
+<br/>
 
-<div align="center">
+<div align="left">
   
   🎨 Designing user-centric experiences that delight users
 
@@ -27,8 +28,10 @@
 </div>
 
 <br/>
+<br/>
 
 <div align="center">
+  Get in Touch
   <a href="mailto:rahmanurannisa.work@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -40,9 +43,8 @@
 <br/>
 <br/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
+<h2 align="left">⚒️ Languages-Frameworks-Tools</h2>
+<div align="left">
   <img src="https://skillicons.dev/icons?i=figma,py,mysql,html,css,js,tensorflow" />
   <img src="https://skillicons.dev/icons?i=gcp,ps,ai,xd,vscode" />
 </div>
@@ -50,9 +52,8 @@
 <br/>
 <br/>
 
-<div align="center">
-  <h2>🐛 My Contributions 🐛</h2>
-  <br>
+<div align="lrft">
+  <h2>🐛 My Contributions</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rahmanurannisa/rahmanurannisa/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>

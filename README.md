@@ -15,6 +15,7 @@
 <br/>
 
 <div align="left">
+  
   🎨 Designing user-centric experiences that delight users
   
   🌱 Learning the intricacies of game development, from level design to character creation

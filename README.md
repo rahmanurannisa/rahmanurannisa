@@ -43,8 +43,8 @@ I'm currently:
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma,py,mysql,html,css,js,tensorflow" />
-  <img src="https://skillicons.dev/icons?i=gcp,ps,ai,xd,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,mysql,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,gcp,vscode" />
 </div>
 
 <br/>

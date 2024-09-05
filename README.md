@@ -6,7 +6,7 @@
 
 <br/>
 
-<h3 align="center">An Informatic Engineering grad with a passion for turning digital ideas into reality. From crafting intuitive interfaces to diving deep into data-driven insights, I always explore new frontiers</h3>
+<h3 align="center">An Informatic Engineering grad passionate about turning digital ideas into reality to help many. From crafting intuitive interfaces to diving deep into data-driven insights, I always explore new frontiers</h3>
 
 <br/>
 <br/>

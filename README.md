@@ -42,6 +42,7 @@ I'm currently:
 
 <br/>
 <br/>
+<br/>
 
 <div align="left">
   <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -50,6 +51,7 @@ I'm currently:
   <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,gcp,vscode" />
 </div>
 
+<br/>
 <br/>
 <br/>
 

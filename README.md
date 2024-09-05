@@ -45,6 +45,7 @@ I'm currently:
 
 <div align="left">
   <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+  <br/>
   <img src="https://skillicons.dev/icons?i=py,tensorflow,mysql,html,css,js" />
   <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,gcp,vscode" />
 </div>

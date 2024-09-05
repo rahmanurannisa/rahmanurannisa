@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Pixelify+Sans&size=35&center=true&vCenter=true&pause=1000&color=1BCA1B&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rahma+Nur+Annisa!;" />
 </h1>
 
+<br/>
+
 <h3 align="center">An Informatic Engineering grad with a passion for turning digital ideas into reality. From crafting intuitive interfaces to diving deep into data-driven insights, I always explore new frontiers</h3>
 
 <br/>
@@ -41,8 +43,8 @@ I'm currently:
 <br/>
 <br/>
 
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="left">
+  <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
   <img src="https://skillicons.dev/icons?i=py,tensorflow,mysql,html,css,js" />
   <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,gcp,vscode" />
 </div>
@@ -50,7 +52,7 @@ I'm currently:
 <br/>
 <br/>
 
-<div align="lrft">
+<div align="left">
   <h2>🐛 My Contributions 🐛</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rahmanurannisa/rahmanurannisa/output/github-contribution-grid-snake.svg" />
 </div>

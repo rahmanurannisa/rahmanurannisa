@@ -13,8 +13,6 @@
 
 <div align="left">
   
-I'm currently:
-  
   🎨 Designing user-centric experiences that delight users
 
   🌱 Learning the intricacies of game development, from level design to character creation
@@ -22,7 +20,8 @@ I'm currently:
   🗺️ Exploring the potential of data science to solve real-world problems
   
   🧠 Curious about AI algorithms that can generate song covers & lifelike animations
-  
+
+  🚀 Have crazy ideas? Let's have a chat, I'm ready to take on any challenge
 </div>
 
 <br/>

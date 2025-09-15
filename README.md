@@ -19,7 +19,7 @@
   
   🗺️ Exploring the potential of data science to solve real-world problems
   
-  🧠 Curious about AI algorithms that can generate song covers & lifelike animations
+  🧠 Curious about AI algorithms that can generate song covers, image & lifelike animations
 
 </div>
 
